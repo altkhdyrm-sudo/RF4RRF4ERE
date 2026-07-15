@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Precision Engineering Pro",
+  "description": "Software for high-precision engineering execution, ensuring strict adherence to technical specifications and attached project files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
